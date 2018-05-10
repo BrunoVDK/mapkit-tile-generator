@@ -11,5 +11,5 @@ Used for project that needed tiles for 3D ground texture, but could probably be 
 Makes use of Apple's MapKit which you need entitlements for.
 
 <p align="center">
- <img src="https://github.com/BrunoVandekerkhove/Mirror/blob/master/screenshot.png?raw=true">
+ <img src="https://github.com/BrunoVandekerkhove/mapkit-tile-generator/blob/master/screenshot.png?raw=true">
 </p>
